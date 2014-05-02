@@ -1,0 +1,28 @@
+{
+  "author": "https://github.com/luscus/node-service-probe/graphs/contributors",
+  "name": "service-probe",
+  "description": "The 'service-probe' returns information about the service (such as dependecies)",
+  "version": "0.1.0",
+  "keywords" : ["root", "parent", "information", "configuration", "dependencies"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luscus/node-service-probe.git"
+  },
+  "homepage" : "https://github.com/luscus/node-service-probe",
+  "bugs" : "https://github.com/luscus/node-service-probe/issues",
+  "main": "./lib/service-probe.js",
+  "dependencies": {
+    "root-finder" : "0.1.x",
+    "ip" : "0.3.x"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "0.10.x",
+    "load-grunt-tasks": "0.4.x"
+  },
+   "licenses" : [
+    { "type" : "GPL",
+      "url" : "https://github.com/luscus/node-service-probe/blob/master/COPYING"
+    }
+  ]
+}
