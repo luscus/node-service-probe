@@ -38,6 +38,7 @@ service-probe adds following properties to the Root Object:
 * `status`: 'OK' if the probe was processed without problems, 'ERROR' otherwise
 * `timestamp`: the time at which the probe was generated
 * `hostname`: the name of the host
+* `pid`: the process id
 * `ip`: the ip address from the network adapter
 * `version`: the version of the package
 * `[version_hash]`: the parsed content of .git/HEAD
