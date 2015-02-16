@@ -1,12 +1,12 @@
-# [node-service-probe](https://github.com/luscus/node-service-probe)
+# [service-probe](https://github.com/luscus/node-service-probe)
 
-[![NPM](https://nodei.co/npm/node-service-probe.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-service-probe/)
+[![NPM](https://nodei.co/npm/service-probe.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/service-probe/)
 
-[![NPM version](https://img.shields.io/npm/v/node-service-probe.svg?style=flat)](https://www.npmjs.com/package/node-service-probe "View this project on NPM")
-[![David](https://img.shields.io/david/luscus/node-service-probe.svg?style=flat)](https://david-dm.org/luscus/node-service-probe)
-[![David](https://img.shields.io/david/dev/luscus/node-service-probe.svg?style=flat)](https://david-dm.org/luscus/node-service-probe#info=devDependencies)
-[![NPM license](https://img.shields.io/npm/l/node-service-probe.svg?style=flat)](https://www.npmjs.com/package/node-service-probe "View this project on NPM")
-[![Omniref](https://img.shields.io/badge/Omniref-docs-orange.svg?style=flat)](https://www.omniref.com/js/npm/node-service-probe)
+[![NPM version](https://img.shields.io/npm/v/service-probe.svg?style=flat)](https://www.npmjs.com/package/service-probe "View this project on NPM")
+[![David](https://img.shields.io/david/luscus/service-probe.svg?style=flat)](https://david-dm.org/luscus/service-probe)
+[![David](https://img.shields.io/david/dev/luscus/service-probe.svg?style=flat)](https://david-dm.org/luscus/service-probe#info=devDependencies)
+[![NPM license](https://img.shields.io/npm/l/service-probe.svg?style=flat)](https://www.npmjs.com/package/service-probe "View this project on NPM")
+[![Omniref](https://img.shields.io/badge/Omniref-docs-orange.svg?style=flat)](https://www.omniref.com/js/npm/service-probe)
 [![flattr](https://img.shields.io/badge/flattr-donate-yellow.svg?style=flat)](http://flattr.com/thing/3817419/luscus-on-GitHub)
 
 The 'service-probe' returns information (such as dependecies) about the first parent module in the path hierarchy.
