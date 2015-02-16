@@ -1,6 +1,6 @@
 {
   "name": "service-probe",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "dependencies": {
     "ip": {
       "version": "0.3.2",
