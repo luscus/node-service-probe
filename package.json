@@ -1,39 +1,39 @@
 {
-    "author": "https://github.com/luscus/node-service-probe/graphs/contributors",
-    "name": "service-probe",
-    "description": "The 'service-probe' returns information about the service (such as dependecies)",
-    "version": "0.1.4",
-    "keywords": [
-        "root",
-        "parent",
-        "information",
-        "configuration",
-        "dependencies"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/luscus/node-service-probe.git"
-    },
-    "homepage": "https://github.com/luscus/node-service-probe",
-    "bugs": "https://github.com/luscus/node-service-probe/issues",
-    "main": "./lib/service-probe.js",
-    "dependencies": {
-        "package.root": "0.2.0",
-        "ip": "0.3.2"
-    },
-    "devDependencies": {
-      "grunt": "0.4.5",
-      "grunt-license-report": "0.0.8",
-      "grunt-contrib-jshint": "0.11.0",
-      "grunt-mocha-test": "0.12.7",
-      "load-grunt-tasks": "3.1.0",
-      "chai": "2.0.0",
-      "mocha": "2.1.0"
-    },
-    "licenses": [
-        {
-            "type": "GPL",
-            "url": "https://github.com/luscus/node-service-probe/blob/master/COPYING"
-        }
-    ]
+  "author": "https://github.com/luscus/node-service-probe/graphs/contributors",
+  "name": "service-probe",
+  "description": "The 'service-probe' returns information about the service (such as dependecies)",
+  "version": "0.1.5",
+  "keywords": [
+    "root",
+    "parent",
+    "information",
+    "configuration",
+    "dependencies"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luscus/node-service-probe.git"
+  },
+  "homepage": "https://github.com/luscus/node-service-probe",
+  "bugs": "https://github.com/luscus/node-service-probe/issues",
+  "main": "./lib/service-probe.js",
+  "dependencies": {
+    "package.root": "0.2.0",
+    "ip": "0.3.2"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-license-report": "0.0.8",
+    "grunt-contrib-jshint": "0.11.0",
+    "grunt-mocha-test": "0.12.7",
+    "load-grunt-tasks": "3.1.0",
+    "chai": "2.0.0",
+    "mocha": "2.1.0"
+  },
+  "licenses": [
+    {
+      "type": "GPL",
+      "url": "https://github.com/luscus/node-service-probe/blob/master/COPYING"
+    }
+  ]
 }

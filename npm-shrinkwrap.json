@@ -1,0 +1,15 @@
+{
+  "name": "service-probe",
+  "version": "0.1.5",
+  "dependencies": {
+    "ip": {
+      "version": "0.3.2",
+      "from": "ip@0.3.2",
+      "resolved": "https://registry.npmjs.org/ip/-/ip-0.3.2.tgz"
+    },
+    "package.root": {
+      "version": "0.2.0",
+      "from": "package.root@0.2.0"
+    }
+  }
+}
